@@ -61,8 +61,8 @@ html {
 }
 
 #carouselButton {
-    position:absolute;
+    position: absolute;
     right: 0;
     bottom: 0;
-    z-indexL 100;
+    z-index: 100;
 }
